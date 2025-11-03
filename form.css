@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(130, 130, 130);
+    color: #fff;
+}
+.container{
+    margin: 0 auto;
+    background-color: rgb(80, 80, 94);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: auto;
+    max-width: 400px;
+    padding: 52px;
+}
+h1{
+    padding-bottom: 30px;
+}
+input{
+    border-radius: 6px;
+    height: 39px;
+    width: 100%;
+}
+label{
+    display: block;
+    margin-top: 30px;
+}
+#email, #password{
+    opacity: 0.5;
+}
+button{
+    width: 100%;
+    margin-top: 40px;
+    background-color: rgb(0, 102, 255, 0.5);
+    color: #fff;
+    height: 43px;
+    border-radius: 6px;
+    box-shadow: none;
+}
+button:hover{
+    background-color: rgba(81, 154, 255, 0.369);
+}
+.sign{
+    color: rgba(177, 177, 177, 0.734);
+}
+a{
+    text-decoration: none;
+}
