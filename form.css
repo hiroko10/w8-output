@@ -2,7 +2,7 @@ body{
     background-color: rgb(130, 130, 130);
     color: #fff;
 }
-.container{
+#container{
     margin: 0 auto;
     background-color: rgb(80, 80, 94);
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -28,14 +28,15 @@ label{
 button{
     width: 100%;
     margin-top: 40px;
-    background-color: rgb(0, 102, 255, 0.5);
+    background-color: rgb(20, 114, 255);
     color: #fff;
     height: 43px;
+    font-size: large;
     border-radius: 6px;
     box-shadow: none;
 }
 button:hover{
-    background-color: rgba(81, 154, 255, 0.369);
+    background-color: rgba(99, 164, 255, 0.692);
 }
 .sign{
     color: rgba(177, 177, 177, 0.734);
